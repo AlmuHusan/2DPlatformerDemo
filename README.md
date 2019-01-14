@@ -1,5 +1,5 @@
 # 2DPlatformerDemo
-A platformer game made by following a tutorial series by Alvin Roe you can check out the playlist here: https://www.youtube.com/playlist?list=PLpj8TZGNIBNy51EtRuyix-NYGmcfkNAuH
+A 2D platformer game made by following a tutorial series by Alvin Roe you can check out the playlist here: https://www.youtube.com/playlist?list=PLpj8TZGNIBNy51EtRuyix-NYGmcfkNAuH
 
 Controls: W,A,D to move around
 
